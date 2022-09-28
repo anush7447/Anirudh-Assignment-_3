@@ -1,0 +1,450 @@
+2022-09-27 15:17:58 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 15:18:00 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 15:18:08 [32minfo[39m: Homepage loaded!
+2022-09-27 15:18:14 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-27 15:18:26 [32minfo[39m: Response for list of users sent!
+2022-09-27 15:18:29 [33mwarn[39m: Deletion of user: Anirudh sdjaosdjaosdj with id: 633172b4a07d79a4a9474179 is been initiated
+2022-09-27 15:18:30 [32minfo[39m: Response for deletion of user: Anirudh sdjaosdjaosdj with id: 633172b4a07d79a4a9474179 details sent!
+2022-09-27 15:18:36 [33mwarn[39m: Deletion of user: Anirudh  with id: 6332c6de5483199a2091002a is been initiated
+2022-09-27 15:18:36 [32minfo[39m: Response for deletion of user: Anirudh  with id: 6332c6de5483199a2091002a details sent!
+2022-09-27 15:18:47 [33mwarn[39m: Data Modificaion of user: Anirudh  with id: 6332c1905a55dcbf578d6ab9 is been initiated
+2022-09-27 15:18:47 [32minfo[39m: Response for updation of user: Anirudh  with id: 6332c1905a55dcbf578d6ab9 details is been sent!
+2022-09-27 15:23:36 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 15:23:38 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 15:23:38 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 17:02:34 [32minfo[39m: Homepage loaded!
+2022-09-27 23:26:49 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:26:58 [32minfo[39m: Homepage loaded!
+2022-09-27 23:26:58 [32minfo[39m: Homepage loaded!
+2022-09-27 23:28:04 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:28:07 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:28:10 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:28:12 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:28:19 [32minfo[39m: Homepage loaded!
+2022-09-27 23:28:46 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:29:00 [32minfo[39m: Homepage loaded!
+2022-09-27 23:30:20 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:30:51 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:31:13 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:31:20 [32minfo[39m: Homepage loaded!
+2022-09-27 23:35:38 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:35:40 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:35:43 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:36:08 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:36:15 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:36:24 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:36:30 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:36:31 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:36:41 [32minfo[39m: Homepage loaded!
+2022-09-27 23:40:42 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:40:43 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:40:55 [32minfo[39m: Homepage loaded!
+2022-09-27 23:40:57 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-27 23:41:05 [32minfo[39m: Response for list of users sent!
+2022-09-27 23:44:02 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:44:04 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:44:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:44:19 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:44:35 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:44:36 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:44:56 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:44:56 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:45:11 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:45:12 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:45:15 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:45:17 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:45:23 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:45:24 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:45:26 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:45:26 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:45:39 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:47:59 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:48:01 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:48:05 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:48:06 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:48:09 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:48:11 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:48:13 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:48:14 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:48:23 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:48:23 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:48:51 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:48:52 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:49:16 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:49:18 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:49:21 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:49:22 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:49:25 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:49:26 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:49:33 [32minfo[39m: Homepage loaded!
+2022-09-27 23:50:17 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:50:18 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:50:32 [32minfo[39m: Homepage loaded!
+2022-09-27 23:50:33 [33mwarn[39m: null
+2022-09-27 23:50:37 [32minfo[39m: Homepage loaded!
+2022-09-27 23:50:45 [33mwarn[39m: null
+2022-09-27 23:52:32 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:52:34 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:52:53 [32minfo[39m: Homepage loaded!
+2022-09-27 23:53:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:53:19 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:53:43 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:53:45 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:53:48 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:53:49 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:53:49 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:53:50 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:56:39 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:56:40 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:56:42 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:56:43 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:56:44 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:56:45 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:56:50 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:56:51 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:56:52 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:56:53 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:59:42 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:59:44 [32minfo[39m: connected to Mongodb atlas!
+2022-09-27 23:59:49 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-27 23:59:51 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:00:32 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:00:33 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:00:36 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:00:37 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:00:42 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:00:43 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:05:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:05:20 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:05:32 [32minfo[39m: Homepage loaded!
+2022-09-28 00:06:43 [32minfo[39m: Homepage loaded!
+2022-09-28 00:09:00 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:09:01 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:09:08 [32minfo[39m: Homepage loaded!
+2022-09-28 00:10:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:10:20 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:10:24 [32minfo[39m: Homepage loaded!
+2022-09-28 00:11:14 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:11:16 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:11:17 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:11:18 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:11:25 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:11:27 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:11:31 [32minfo[39m: Homepage loaded!
+2022-09-28 00:12:06 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:12:07 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:12:13 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:12:14 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:12:15 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:12:30 [32minfo[39m: Homepage loaded!
+2022-09-28 00:12:54 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:12:58 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:12:59 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:12:59 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:13:00 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:13:27 [32minfo[39m: Homepage loaded!
+2022-09-28 00:13:50 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:13:51 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:14:05 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:14:06 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:14:08 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:14:08 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:14:14 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:14:15 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:14:16 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:14:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 00:14:19 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 00:14:23 [32minfo[39m: Homepage loaded!
+2022-09-28 09:59:48 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 09:59:49 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 09:59:57 [32minfo[39m: Homepage loaded!
+2022-09-28 09:59:57 [32minfo[39m: Homepage loaded!
+2022-09-28 09:59:58 [32minfo[39m: Homepage loaded!
+2022-09-28 10:02:13 [32minfo[39m: Homepage loaded!
+2022-09-28 10:02:30 [32minfo[39m: Response for list of users sent!
+2022-09-28 10:03:56 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:03:58 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:04:01 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:04:02 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:04:23 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:04:24 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:04:40 [32minfo[39m: Homepage loaded!
+2022-09-28 10:04:42 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:04:47 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:05:20 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:05:21 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:05:35 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:05:37 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:05:38 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:05:38 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:05:40 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:05:40 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:06:03 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:06:04 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:06:05 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:06:05 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:06:59 [32minfo[39m: Homepage loaded!
+2022-09-28 10:07:01 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:07:06 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:07:49 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:07:50 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:07:54 [32minfo[39m: Homepage loaded!
+2022-09-28 10:07:59 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:08:21 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:08:22 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:08:27 [32minfo[39m: Homepage loaded!
+2022-09-28 10:08:32 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:08:57 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:09:00 [32minfo[39m: Homepage loaded!
+2022-09-28 10:09:01 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:09:03 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:09:17 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:09:17 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:09:23 [32minfo[39m: Homepage loaded!
+2022-09-28 10:09:45 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:09:46 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:09:47 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:09:53 [32minfo[39m: Homepage loaded!
+2022-09-28 10:11:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:11:20 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:11:21 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:11:23 [32minfo[39m: Homepage loaded!
+2022-09-28 10:13:04 [32minfo[39m: Homepage loaded!
+2022-09-28 10:13:06 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:14:25 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:14:27 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:14:27 [32minfo[39m: Homepage loaded!
+2022-09-28 10:14:51 [32minfo[39m: Homepage loaded!
+2022-09-28 10:16:08 [32minfo[39m: Response for list of users sent!
+2022-09-28 10:16:11 [33mwarn[39m: Deletion of user:   with id: 6333cfe76893fa1df79057ae is been initiated
+2022-09-28 10:16:11 [32minfo[39m: Response for deletion of user:   with id: 6333cfe76893fa1df79057ae details sent!
+2022-09-28 10:16:12 [33mwarn[39m: Deletion of user:  with id: 6333cfa7703102535c17433a is been initiated
+2022-09-28 10:16:12 [32minfo[39m: Response for deletion of user:  with id: 6333cfa7703102535c17433a details sent!
+2022-09-28 10:16:13 [33mwarn[39m: Deletion of user: Anirudh Nayak with id: 6333cf6d5fb227c185d541e5 is been initiated
+2022-09-28 10:16:13 [32minfo[39m: Response for deletion of user: Anirudh Nayak with id: 6333cf6d5fb227c185d541e5 details sent!
+2022-09-28 10:16:15 [33mwarn[39m: Deletion of user:  with id: 6333cfc8b645980f7b17f870 is been initiated
+2022-09-28 10:16:15 [32minfo[39m: Response for deletion of user:  with id: 6333cfc8b645980f7b17f870 details sent!
+2022-09-28 10:16:16 [33mwarn[39m: Deletion of user:  with id: 6333cee72d4703d6a40212d2 is been initiated
+2022-09-28 10:16:16 [32minfo[39m: Response for deletion of user:  with id: 6333cee72d4703d6a40212d2 details sent!
+2022-09-28 10:16:19 [33mwarn[39m: Deletion of user:  with id: 6333cf725fb227c185d541e6 is been initiated
+2022-09-28 10:16:19 [32minfo[39m: Response for deletion of user:  with id: 6333cf725fb227c185d541e6 details sent!
+2022-09-28 10:16:21 [32minfo[39m: Homepage loaded!
+2022-09-28 10:16:22 [32minfo[39m: Response for list of users sent!
+2022-09-28 10:16:27 [32minfo[39m: Homepage loaded!
+2022-09-28 10:16:32 [32minfo[39m: Response for list of users sent!
+2022-09-28 10:22:01 [32minfo[39m: Homepage loaded!
+2022-09-28 10:22:05 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:22:07 [32minfo[39m: Response for list of users sent!
+2022-09-28 10:25:45 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:25:46 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:26:12 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:26:12 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:26:17 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:26:18 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:26:23 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:26:24 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:26:27 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:26:28 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:26:33 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:26:34 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:26:36 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:26:36 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:26:58 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:26:59 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:06 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:07 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:12 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:12 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:25 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:26 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:44 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:45 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:47 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:47 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:49 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:49 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:51 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:52 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:53 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:54 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:55 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:27:56 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:27:59 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:28:00 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:28:14 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:28:15 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:28:20 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:28:20 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:28:30 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:28:31 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:28:35 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:28:36 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:28:38 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:28:39 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:28:53 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:28:54 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:05 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:06 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:10 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:12 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:13 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:14 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:19 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:20 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:22 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:22 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:33 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:35 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:36 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:37 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:43 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:44 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:29:45 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:29:45 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:30:28 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:30:31 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:30:37 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:30:37 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:30:41 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:30:43 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:30:45 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:30:47 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:30:48 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:30:57 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:30:57 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:31:00 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:31:01 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:31:02 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:31:02 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:31:10 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:31:11 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:31:12 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:31:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:31:19 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:41:44 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:41:45 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:44:55 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:44:57 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:45:53 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:45:54 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:48:01 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:48:03 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:50:22 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:50:23 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:50:27 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:50:28 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:50:33 [32minfo[39m: Homepage loaded!
+2022-09-28 10:50:34 [32minfo[39m: Homepage loaded!
+2022-09-28 10:50:34 [32minfo[39m: Homepage loaded!
+2022-09-28 10:50:35 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 10:50:42 [32minfo[39m: Response for list of users sent!
+2022-09-28 10:50:57 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:50:58 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:51:05 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:51:06 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:51:11 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:51:12 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:51:19 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:51:20 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:52:36 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:52:39 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:55:08 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:55:10 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:55:38 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:55:39 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:56:02 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:56:04 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 10:57:51 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 10:57:53 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:01:49 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:01:50 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:06:19 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:06:25 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:12:06 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:12:08 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:12:12 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:12:13 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:12:18 [32minfo[39m: Homepage loaded!
+2022-09-28 11:12:26 [32minfo[39m: Response for list of users sent!
+2022-09-28 11:12:39 [32minfo[39m: Homepage loaded!
+2022-09-28 11:12:40 [32minfo[39m: Response for list of users sent!
+2022-09-28 11:36:50 [32minfo[39m: Homepage loaded!
+2022-09-28 11:38:25 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:38:27 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:38:47 [32minfo[39m: Response for list of users sent!
+2022-09-28 11:38:57 [32minfo[39m: Homepage loaded!
+2022-09-28 11:38:58 [32minfo[39m: Response for list of users sent!
+2022-09-28 11:39:07 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:39:09 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:49:24 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:49:25 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:49:31 [32minfo[39m: Homepage loaded!
+2022-09-28 11:51:24 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:51:26 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:51:32 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:51:33 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:51:34 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:51:35 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:51:42 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:51:43 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:51:51 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:51:52 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:51:52 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:51:53 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:51:53 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:51:55 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:52:46 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:52:47 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:53:03 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:53:04 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:03 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:05 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:06 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:07 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:10 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:10 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:12 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:12 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:18 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:20 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:21 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:21 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:32 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:33 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:36 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:39 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:40 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:48 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:55:49 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:55:59 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:05 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:06 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:56:22 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:24 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:56:27 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:30 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:56:30 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:32 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:56:34 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:34 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:56:46 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:47 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 11:56:56 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 11:56:58 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 12:00:05 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 12:00:06 [32minfo[39m: connected to Mongodb atlas!
+2022-09-28 12:00:13 [32minfo[39m: Homepage loaded!
+2022-09-28 12:00:19 [32minfo[39m: Homepage loaded!
+2022-09-28 12:00:28 [32minfo[39m: Response for creation of user:[object Object] details sent!
+2022-09-28 12:00:29 [32minfo[39m: Response for list of users sent!
+2022-09-28 12:00:32 [32minfo[39m: Response for finding of user details sent!
+2022-09-28 12:00:33 [32minfo[39m: Response for list of users sent!
+2022-09-28 12:00:36 [33mwarn[39m: Deletion of user: Annuji with id: 6333ea043f9a8a48c05f75d4 is been initiated
+2022-09-28 12:00:36 [32minfo[39m: Response for deletion of user: Annuji with id: 6333ea043f9a8a48c05f75d4 details sent!
+2022-09-28 12:00:43 [33mwarn[39m: Data Modificaion of user: Anirudh  123 with id: 6332c1905a55dcbf578d6ab9 is been initiated
+2022-09-28 12:00:43 [32minfo[39m: Response for updation of user: Anirudh  123 with id: 6332c1905a55dcbf578d6ab9 details is been sent!
+2022-09-28 12:00:44 [32minfo[39m: Response for list of users sent!
+2022-09-28 12:00:46 [32minfo[39m: Homepage loaded!
+2022-09-28 12:00:47 [32minfo[39m: Response for list of users sent!
+2022-09-28 12:00:57 [32minfo[39m: Server running successfully on PORT : 8080
+2022-09-28 12:00:58 [32minfo[39m: connected to Mongodb atlas!

@@ -1,0 +1,50 @@
+2022-09-27 23:27:19 [31merror[39m: MongoServerSelectionError: connection <monitor> to 35.200.192.162:27017 closed
+    at Timeout._onTimeout (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/node_modules/mongodb/lib/sdam/topology.js:291:38)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-09-27 23:28:42 [31merror[39m: MongoServerSelectionError: connection <monitor> to 34.93.33.40:27017 closed
+    at Timeout._onTimeout (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/node_modules/mongodb/lib/sdam/topology.js:291:38)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-09-27 23:29:16 [31merror[39m: MongoServerSelectionError: connection <monitor> to 35.200.192.162:27017 closed
+    at Timeout._onTimeout (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/node_modules/mongodb/lib/sdam/topology.js:291:38)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-09-27 23:31:43 [31merror[39m: MongoServerSelectionError: connection <monitor> to 34.93.33.40:27017 closed
+    at Timeout._onTimeout (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/node_modules/mongodb/lib/sdam/topology.js:291:38)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-09-27 23:37:01 [31merror[39m: MongoServerSelectionError: connection <monitor> to 34.93.153.98:27017 closed
+    at Timeout._onTimeout (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/node_modules/mongodb/lib/sdam/topology.js:291:38)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2022-09-28 11:48:44 [31merror[39m: Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/app.js:208:7)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2022-09-28 11:48:59 [31merror[39m: Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/app.js:208:7)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2022-09-28 11:55:59 [31merror[39m: ReferenceError: emptyValueChecker is not defined
+    at Object.<anonymous> (/home/niveus/Desktop/intro_to_Vscode/myapp/Mongols/app.js:232:17)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
